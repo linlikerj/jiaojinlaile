@@ -27,7 +27,7 @@
 
 您可以直接通过以下链接下载最新的安装包：
 
-👉 [点击下载 app-release.apk](https://github.com/linlikerj/jiaojinlaile/blob/main/app/release/app-release.apk)
+👉 [点击下载 app-release.apk](app/release/app-release.apk)
 
 > **注意**：
 > 1. 安装时如提示“来自未知来源”，请选择“仍然安装”。
