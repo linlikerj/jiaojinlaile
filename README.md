@@ -20,7 +20,7 @@
 
 |                界面预览 1                 |                界面预览 2                 |                界面预览 3                 |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| ![监控前](screenshots/jiaojinlaile1.png) | ![监控中](screenshots/jiaojinlaile2.png) | ![警报中](screenshots/jiaojinlaile2.png) |
+| ![监控前](screenshots/jiaojinlaile1.png) | ![监控中](screenshots/jiaojinlaile2.png) | ![警报中](screenshots/jiaojinlaile3.png) |
 
 
 ## 📥 下载安装
